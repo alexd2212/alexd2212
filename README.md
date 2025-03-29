@@ -44,7 +44,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=alexd2212e&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=alexd2212&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=alexd2212&theme=material-palenight)](https://github.com/valentinawerle)
 </div>
 
