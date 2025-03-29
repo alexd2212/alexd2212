@@ -10,13 +10,6 @@ But my life isn't limited to just code. I'm also an enthusiast of Brazilian Jiu-
 
 In short, I'm a DAW student with a great thirst for technological knowledge, a Jiu-Jitsu practitioner, a gamer at heart, and someone who is always willing to ask questions to keep learning.
 
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="valexduranc22@gmail.com">alexduranc22@gmail.com</a>
 
 ## My Skills Include
