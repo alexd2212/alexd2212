@@ -4,13 +4,31 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+👋 About me
+
 Hi! I'm a Web Application Development (DAW) student, and I'm currently at a stage where I'm passionate about diving into the world of new technologies. My main goal is to expand my knowledge in both front-end and back-end development. I firmly believe that having a solid foundation in both areas will give me the ability to tackle and find creative solutions to any problem that arises.
 
-But my life isn't limited to just code. I'm also an enthusiast of Brazilian Jiu-Jitsu, a martial art that teaches me discipline and perseverance. When I need to disconnect from the screen, I love to immerse myself in the world of video games, whether it's exploring fantastic worlds or competing with other players. And if there's one thing that defines me, it's my insatiable curiosity. I love to learn and understand how things work, so I don't hesitate to ask questions to anyone who crosses my path (even walls if they could answer!).
+🌱 I’m currently learning ...
 
-In short, I'm a DAW student with a great thirst for technological knowledge, a Jiu-Jitsu practitioner, a gamer at heart, and someone who is always willing to ask questions to keep learning.
+I'm currently focused on expanding my knowledge in both front-end and back-end development to become a versatile problem solver.
 
-- 📫 Reach out to me at: <a href="valexduranc22@gmail.com">alexduranc22@gmail.com</a>
+👯 I’m looking forward to collaborate on open source projects.
+
+I'm eager to collaborate on open-source projects and learn from others in the community.
+
+✔ Ask me about anything, I am happy to help
+
+Feel free to ask me anything, I'm always happy to share what I know and learn from your questions.
+
+Outside tech,
+
+💜 I enjoy practicing Brazilian Jiu-Jitsu, which teaches me discipline and perseverance.
+🎮 I love playing video games to unwind and explore different worlds.
+❓ I'm also someone with an insatiable curiosity and I'm always asking questions to understand how things work.
+
+📫 Reach out to me at:
+
+alexduranc22@gmail.com
 
 ## My Skills Include
 
