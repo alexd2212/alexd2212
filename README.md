@@ -4,7 +4,12 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+Hi! I'm a Web Application Development (DAW) student, and I'm currently at a stage where I'm passionate about diving into the world of new technologies. My main goal is to expand my knowledge in both front-end and back-end development. I firmly believe that having a solid foundation in both areas will give me the ability to tackle and find creative solutions to any problem that arises.
+
+But my life isn't limited to just code. I'm also an enthusiast of Brazilian Jiu-Jitsu, a martial art that teaches me discipline and perseverance. When I need to disconnect from the screen, I love to immerse myself in the world of video games, whether it's exploring fantastic worlds or competing with other players. And if there's one thing that defines me, it's my insatiable curiosity. I love to learn and understand how things work, so I don't hesitate to ask questions to anyone who crosses my path (even walls if they could answer!).
+
+In short, I'm a DAW student with a great thirst for technological knowledge, a Jiu-Jitsu practitioner, a gamer at heart, and someone who is always willing to ask questions to keep learning.
+
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
