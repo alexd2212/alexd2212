@@ -1,7 +1,5 @@
 <h1 align="center">Alejandro Duran</h1>
 
-<img align="right" width=300px alt="GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
 ## About Me
 
 Hello! I am a Web Application Development (DAW) student with a strong passion for exploring new technologies. My primary focus is on expanding my expertise in both front-end and back-end development. I believe that a comprehensive understanding of these areas is crucial for tackling complex problems and developing innovative solutions.
@@ -31,20 +29,20 @@ You can reach me at alexduranc22@gmail.com.
 ## Technical Skills
 
 **Languages:**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sql&logoColor=005a96">
 
-**Tools and Technologies:**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/Astro-1A2B33?style=for-the-badge&logo=astro&logoColor=white"> 
+**Frameworks & Libraries:**
+<img src="https://img.shields.io/badge/Astro-1A2B33?style=for-the-badge&logo=astro&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+**Tools:**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## Github Stats
