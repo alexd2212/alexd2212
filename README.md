@@ -1,66 +1,50 @@
-<h1 align="center"><b>Hi , I'm Alejandro Duran </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<h1 align="center">Alejandro Duran</h1>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img align="right" width=300px alt="GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-👋 About me
+## About Me
 
-Hi! I'm a Web Application Development (DAW) student, and I'm currently at a stage where I'm passionate about diving into the world of new technologies. My main goal is to expand my knowledge in both front-end and back-end development. I firmly believe that having a solid foundation in both areas will give me the ability to tackle and find creative solutions to any problem that arises.
+Hello! I am a Web Application Development (DAW) student with a strong passion for exploring new technologies. My primary focus is on expanding my expertise in both front-end and back-end development. I believe that a comprehensive understanding of these areas is crucial for tackling complex problems and developing innovative solutions.
 
-🌱 I’m currently learning ...
+## Current Learning Focus
 
-I'm currently focused on expanding my knowledge in both front-end and back-end development to become a versatile problem solver.
+I am currently dedicated to enhancing my skills in both front-end and back-end development, with the goal of becoming a versatile and effective problem solver.
 
-👯 I’m looking forward to collaborate on open source projects.
+## Collaboration Interests
 
-I'm eager to collaborate on open-source projects and learn from others in the community.
+I am eager to collaborate on open-source projects and contribute to the community while learning from experienced developers.
 
-✔ Ask me about anything, I am happy to help
+## Questions and Assistance
 
-Feel free to ask me anything, I'm always happy to share what I know and learn from your questions.
+Please feel free to ask me anything. I am always happy to share my knowledge and learn from your inquiries.
 
-Outside tech,
+## Outside of Tech
 
-💜 I enjoy practicing Brazilian Jiu-Jitsu, which teaches me discipline and perseverance.
-🎮 I love playing video games to unwind and explore different worlds.
-❓ I'm also someone with an insatiable curiosity and I'm always asking questions to understand how things work.
+* I enjoy practicing Brazilian Jiu-Jitsu, which cultivates discipline and perseverance.
+* I find relaxation and inspiration in playing video games and exploring virtual worlds.
+* I maintain a strong curiosity and consistently seek to understand the underlying mechanisms of various systems.
 
-📫 Reach out to me at:
+## Contact
 
-alexduranc22@gmail.com
+You can reach me at alexduranc22@gmail.com.
 
-## My Skills Include
+## Technical Skills
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- 
+**Languages:**
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sql&logoColor=005a96">
 
-</span>
+**Tools and Technologies:**
 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Astro-1A2B33?style=for-the-badge&logo=astro&logoColor=white"> 
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
-
-</span>
-
-
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=alexd2212&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alexd2212&theme=material-palenight)](https://github.com/valentinawerle)
-</div>
-
+## Github Stats
